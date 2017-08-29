@@ -14,7 +14,7 @@
     <properties>
         <compile.level>1.8</compile.level>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.3.9.RELEASE</spring.version>
+        <spring.version>4.3.10.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
         <commons-logging.version>1.2</commons-logging.version>
 
